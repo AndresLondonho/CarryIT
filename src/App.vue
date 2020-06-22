@@ -32,5 +32,7 @@ export default {
 
 <style scoped>
 
+</style>
 
 </style>
+
