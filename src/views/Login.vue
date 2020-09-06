@@ -14,7 +14,7 @@
                         class="text-center display-1 mb-10"
                         :class="`${bgColor}--text`"
                       >
-                        Iniciar sesión
+                        Iniciar CECEP LOCAS
                       </h1>
                       <v-text-field
                         id="username"
